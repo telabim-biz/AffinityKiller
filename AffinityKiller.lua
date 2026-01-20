@@ -22,6 +22,7 @@ AK.names = {
     "Green Affinity",
     "Mana Affinity",
     "Red Affinity",
+    "Manascale Ley-Seeker"
 }
 
 local DEBUG = false
