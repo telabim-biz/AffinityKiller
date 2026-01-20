@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: AffinityKiller
+## Notes: Target specific NPCs and cast configured spells via /ak
+## Author: telabim-biz
+## SavedVariables: AffinityKillerDB
+AffinityKiller.lua
